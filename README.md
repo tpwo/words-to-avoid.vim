@@ -26,17 +26,17 @@ Install
 Without a package manager:
 
 ```
-curl -sSL https://raw.githubusercontent.com/nicholaides/words-to-avoid.vim/master/plugin/words-to-avoid.vim > ~/.vim/plugin/words-to-avoid.vim
+curl -sSL https://raw.githubusercontent.com/tpwo/words-to-avoid.vim/master/plugin/words-to-avoid.vim > ~/.vim/plugin/words-to-avoid.vim
 ```
 
 With [Vundle](https://github.com/gmarik/Vundle.vim):
 
 ```
-Plugin 'nicholaides/words-to-avoid.vim'
+Plugin 'tpwo/words-to-avoid.vim'
 ```
 
 With [Plug](https://github.com/junegunn/vim-plug):
 
 ```
-Plug 'nicholaides/words-to-avoid.vim'
+Plug 'tpwo/words-to-avoid.vim'
 ```
