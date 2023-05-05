@@ -17,6 +17,8 @@ Also highlight these if used as sentence starters:
 - So
 - Easy. (only when the period is there)
 
+See [test-sentences.md](test-sentences.md) for examples.
+
 Thanks to:
 
 - http://wynnnetherland.com/linked/2014010902/words-to-avoid-in-tech-writing
