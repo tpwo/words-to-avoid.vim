@@ -10,9 +10,12 @@ Highlight words to avoid in tech writing:
 - clearly
 - just
 - everyone knows
+
+Also highlight these if used as sentence starters:
+
 - However
 - So
-- easy
+- Easy. (only when the period is there)
 
 Thanks to:
 
